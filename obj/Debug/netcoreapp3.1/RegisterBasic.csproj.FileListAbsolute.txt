@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\bin\Debug\netcoreapp3.1\RegisterBasic.exe
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\bin\Debug\netcoreapp3.1\RegisterBasic.deps.json
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\bin\Debug\netcoreapp3.1\RegisterBasic.runtimeconfig.json
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\bin\Debug\netcoreapp3.1\RegisterBasic.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\bin\Debug\netcoreapp3.1\RegisterBasic.dll
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\bin\Debug\netcoreapp3.1\RegisterBasic.pdb
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.dll
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.pdb
+C:\Users\Usuario\source\repos\RegisterBasic\RegisterBasic\obj\Debug\netcoreapp3.1\RegisterBasic.genruntimeconfig.cache
