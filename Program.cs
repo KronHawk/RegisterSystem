@@ -75,8 +75,8 @@ namespace RegisterBasic
                         }
                         if (verif == true && verifPass == true)
                         {
-                            //logado
-                            Console.WriteLine("logado");
+                            //logged
+                            Console.WriteLine("logged");
                         }
                         break;
                     default:
