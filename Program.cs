@@ -61,6 +61,10 @@ namespace RegisterBasic
                             {
                                 verif = true;
                             }
+                            else
+                            {
+                                //throw new ArgumentException();
+                            }
                         }
                         Console.Clear();
                         Console.WriteLine("Your Password:");
@@ -71,6 +75,10 @@ namespace RegisterBasic
                             if (loginPassword == verifPW)
                             {
                                 verifPass = true;
+                            }
+                            else
+                            {
+                                //throw new ArgumentException();
                             }
                         }
                         if (verif == true && verifPass == true)
