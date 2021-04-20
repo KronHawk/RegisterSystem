@@ -60,31 +60,29 @@ namespace RegisterBasic
                             if (loginUser == verifUser)
                             {
                                 verif = true;
-                            }
-                            else
-                            {
-                                //throw new ArgumentException();
+                                if (verif = true)
+                                {
+                                    Console.WriteLine("Your password:");
+                                    string loginpassword = Console.ReadLine().ToUpper();
+                                    for (int i = 0; i < user.Length; i++)
+                                    {
+                                        if (loginpassword == a.Password)
+                                        {
+                                            verifPass = true;
+                                        }
+                                    }
+                                }
                             }
                         }
                         Console.Clear();
-                        Console.WriteLine("Your Password:");
-                        string loginPassword = Console.ReadLine().ToUpper();
-                        foreach (var b in user)
-                        {
-                            verifPW = b.Password;
-                            if (loginPassword == verifPW)
-                            {
-                                verifPass = true;
-                            }
-                            else
-                            {
-                                //throw new ArgumentException();
-                            }
-                        }
                         if (verif == true && verifPass == true)
                         {
                             //logged
                             Console.WriteLine("logged");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Username or Password wrong, try again");
                         }
                         break;
                     default:
